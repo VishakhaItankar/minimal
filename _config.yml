@@ -1,12 +1,10 @@
 title: <p align="center"> Vishakha Itankar </p>
 logo: /assets/img/New Doc 2021-05-18_1.jpg
 description: 
-<p align="center">
-
-  <a href="https://github.com/vishakhaitankar">GitHub</a>
-  
-<br>   
-  I'm a technofunctional consulatant with 11 years of experience in IT
- <br>
-</p>  
+    <p align="center">
+      <a href="https://github.com/vishakhaitankar">GitHub</a>
+      <br>   
+      I'm a technofunctional consulatant with 11 years of experience in IT
+      <br>
+    </p>  
 theme: jekyll-theme-minimal
